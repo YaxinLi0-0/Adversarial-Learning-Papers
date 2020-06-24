@@ -15,6 +15,8 @@
 1. Theoretically Principled Trade-off between Robustness and Accuracy[~pdf](https://arxiv.org/pdf/1901.08573.pdf)
 2. You only propagate once: Accelerating adversarial training via maximal principle[~pdf](http://papers.nips.cc/paper/8316-you-only-propagate-once-accelerating-adversarial-training-via-maximal-principle)
 3. Fast is better than free: Revisiting adversarial training[~pdf](https://arxiv.org/pdf/2001.03994.pdf)
+4. Attacks Which Do Not Kill Training Make Adversarial Learning Stronger[~pdf](https://arxiv.org/pdf/2002.11242.pdf)
+
 ### Provalable defense
 1. Certified Adversarial Robustness via Randomized Smoothing[~pdf](https://arxiv.org/pdf/1902.02918.pdf)
 ## Others
