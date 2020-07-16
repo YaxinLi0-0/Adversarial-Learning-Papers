@@ -16,7 +16,7 @@
 2. You only propagate once: Accelerating adversarial training via maximal principle[~pdf](http://papers.nips.cc/paper/8316-you-only-propagate-once-accelerating-adversarial-training-via-maximal-principle)
 3. Fast is better than free: Revisiting adversarial training[~pdf](https://arxiv.org/pdf/2001.03994.pdf)
 4. Attacks Which Do Not Kill Training Make Adversarial Learning Stronger[~pdf](https://arxiv.org/pdf/2002.11242.pdf)
-
+5. Towards Understanding the Dynamics of the First-Order Adversaries[~pdf](https://proceedings.icml.cc/static/paper_files/icml/2020/1310-Paper.pdf)
 ### Provalable defense
 1. Certified Adversarial Robustness via Randomized Smoothing[~pdf](https://arxiv.org/pdf/1902.02918.pdf)
 ## Others
