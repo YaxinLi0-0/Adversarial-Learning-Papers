@@ -1,5 +1,7 @@
 # Papers
 ## Attack
+### White Box attack
+1. Stronger and Faster Wasserstein Adversarial Attacks [~pdf](https://proceedings.icml.cc/static/paper_files/icml/2020/724-Paper.pdf)
 ### Poisoning
 1. Transferable Clean-Label Poisoning Attacks on Deep Neural Nets
 [~pdf](https://arxiv.org/pdf/1905.05897.pdf)
@@ -7,7 +9,7 @@
 1. Targeted Backdoor Attacks on Deep Learning Systems Using Data Poisoning[~pdf](https://arxiv.org/pdf/1712.05526.pdf?source=post_page---------------------------)
 ### Attack in other domains
 1. DBA: Distributed Backdoor Attacks Against Federated Learning[~pdf](https://openreview.net/attachment?id=rkgyS0VFvr&name=original_pdf)
-
+2. Adversarial Attacks on Copyright Detection Systems [~pdf](https://arxiv.org/pdf/1906.07153.pdf)
 
 ## Defense
 
