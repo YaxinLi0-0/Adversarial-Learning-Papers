@@ -1,4 +1,24 @@
 # Papers
+## ICLR 2021 high score papers
+1. Geometry-aware Instance-reweighted Adversarial Training
+2. Improving Adversarial Robustness via Channel-wise Activation Suppressing
+3. How Does Mixup Help With Robustness and Generalization?
+4. Towards A Unified Understanding and Improving of Adversarial Transferability
+5. When Optimizing  $f$-Divergence is Robust with Label Noise
+6. A Hypergradient Approach to Robust Regression without Correspondence
+Does enhanced shape bias improve neural network robustness to common corruptions?
+7. you only need adversarial supervision for semantic image synthesis
+8. SOAR: Second-Order Adversarial Regularization
+9. ARMOURED: Adversarially Robust MOdels using Unlabeled data by REgularizing Diversity 
+10. Perceptual Adversarial Robustness: Generalizable Defenses Against Unforeseen Threat Models
+11. Collective Robustness Certificates
+12. Perceptual Adversarial Robustness: Generalizable Defenses Against Unforeseen Threat Models
+13. Distributionally Robust Learning for Unsupervised Domain Adaptation
+14. On Fast Adversarial Robustness Adaptation in Model-Agnostic Meta-Learning
+15. Evaluations and Methods for Explanation through Robustness Analysis
+16. Fast Geometric Projections for Local Robustness Certification
+17. Heating up decision boundaries: isocapacitory saturation, adversarial scenarios and generalization bounds
+
 ## Attack
 ### White Box attack
 1. Stronger and Faster Wasserstein Adversarial Attacks [~pdf](https://proceedings.icml.cc/static/paper_files/icml/2020/724-Paper.pdf)
